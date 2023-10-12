@@ -1,6 +1,5 @@
 import "./styles.css";
 import Form from "./WeatherForm";
-import axios from "axios";
 
 export default function App() {
   return (
