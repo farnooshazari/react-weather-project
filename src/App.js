@@ -38,7 +38,6 @@ export default function App() {
                           id="icon"
                           src="https://ssl.gstatic.com/onebox/weather/64/sunny.png"
                           alt="clear"
-                          srcset=""
                         />
                         <div>
                           <span id="temperature" className="temperature">
