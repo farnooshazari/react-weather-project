@@ -117,8 +117,19 @@ export default function App() {
                       </a>
                     </li>
                   </ul>
-                  {/*  */}
                 </div>
+              </div>
+              <div className=" d-flex ms-1 mt-1">
+                <small>
+                  <a
+                    href="https://github.com/farnooshazari/react-weather-project"
+                    target="_blank"
+                  >
+                    Open-source code
+                  </a>
+                  , by Farnoosh Azari from{" "}
+                  <a href="https://shecodes.io/">She Codes</a>
+                </small>
               </div>
             </div>
           </div>
